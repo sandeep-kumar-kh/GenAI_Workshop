@@ -14,7 +14,7 @@ print(type(model_name))
 #String Formatting
   #Old Style
 print("Model Name: %s" % model_name)
-name = "Hemanth Naik M"
+name = "Sandeep Kumar KH"
 print("I am, '%s'" % name)
 
 
